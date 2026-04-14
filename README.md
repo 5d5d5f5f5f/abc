@@ -14,11 +14,62 @@
 
 ## 部署方法
 
-1. 打开 **Cloudflare → Workers & Pages**
-2. 点击 **Create Worker**
-3. 删除默认原始代码
-4. 复制或粘贴 `worker.js` 内容（也可直接Fork项目用`Pages`部署）
-5. 点击 `Save and Deploy`  保存
+### 1️⃣ 登录后台
+登录 Cloudflare 后台
+
+---
+
+### 2️⃣ 进入 Workers
+在左侧菜单找到：
+
+👉 **Workers & Pages**
+
+点击进入
+
+---
+
+### 3️⃣ 创建 Worker
+依次点击：
+
+👉 **Create Application（创建应用）**  
+👉 **从 Hello World!开始**
+
+然后点击：
+
+👉 **Create Worker（创建 Worker）**
+
+---
+
+## 编辑代码
+
+进入后会看到默认代码：
+
+```javascript
+export default {
+  async fetch(request) {
+    return new Response("Hello World!");
+  }
+}
+把默认代码删除，替换为本项目 Worker 代码
+点击右上角：
+
+👉 Deploy（部署）
+
+等待几秒即可完成部署
+部署成功后，会生成一个访问地址，例如：
+
+https://xxxx.workers.dev
+
+直接在浏览器打开即可查看效果
+绑定自定义域名（可选）
+
+如果你有域名，可以绑定：
+
+进入 Worker 设置
+点击：
+👉 Triggers（触发器）
+添加：
+👉 Custom Domain（自定义域名）
 
 ---
 
