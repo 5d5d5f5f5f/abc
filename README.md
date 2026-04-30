@@ -83,6 +83,8 @@ https://xxxx.workers.dev
 ## 免费域名注册地址   https://my.dnshe.com
 使用邀请码，您与好友各增加 1 个注册额度。
 ## 邀请码：FQE4D39C49
+### 域名有效期10年或1年，看脸
+![图片1](https://123.tv1288.xyz/04331.png)
 
 
 
