@@ -1,7 +1,7 @@
-#  mitv 脚本数据已清空下架
+#  YSP 脚更新 （需重新部署 JS 脚本）
 #  酒店源自动更新：（已添加授权码方式访问）
 
-https://xymm.1000s.dpdns.org
+https://xymm.1000s.dpdns.org/授权码
 
 # ⚽️🏆 体育赛事｜看球通知
 
