@@ -1,12 +1,10 @@
-#  📺 央视频
+#  📺 央视频 11/20 更新
 
 服务器1：https://8w97qbaxj0.apps.bot-hosting.cloud
 
 服务器2：https://n242qtzpk9.apps.bot-hosting.cloud
 
-服务器3：https://jo2vip84bj.apps.bot-hosting.cloud
 
-服务器4：https://xymm01.kdns.fr
 
 
 
